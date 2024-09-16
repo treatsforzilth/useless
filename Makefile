@@ -1,5 +1,5 @@
 CC=gcc
 CFLAGS=-O3
 
-useless: useless.c
+useless:
 	$(CC) -o useless.amd64 useless.c
