@@ -1,3 +1,5 @@
+# only compiles on linux
+
 CC=gcc
 CFLAGS=-O3
 
